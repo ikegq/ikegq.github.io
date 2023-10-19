@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-37cee550","path":"/docs/nuxt/002.html","title":"Nuxt 002","lang":"en-US","frontmatter":{"title":"Nuxt 002","date":"2023/10/19"},"headers":[],"git":{"createdTime":1697682849000,"updatedTime":1697682849000,"contributors":[{"name":"ikegq","email":"1278822613@qq.com","commits":1}]},"filePathRelative":"docs/nuxt/002.md"}');export{t as data};
