@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,a as e,b as o}from"./app-cbd50432.js";const r={},s=e("h3",{id:"vite-为什么快",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#vite-为什么快","aria-hidden":"true"},"#"),o(" vite 为什么快")],-1),_=[s];function n(i,d){return a(),c("div",null,_)}const l=t(r,[["render",n],["__file","23101002.html.vue"]]);export{l as default};
