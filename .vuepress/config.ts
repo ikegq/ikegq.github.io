@@ -28,13 +28,20 @@ export default defineUserConfig({
       // ],
       "/docs": [
         {
+          text: 'Design Pattern',
+          // collapsible: true,
+          children: ['/docs/design-pattern/001', '/docs/design-pattern/002']
+        },
+        {
           text: 'NestJs',
+          // collapsible: true,
           children: ['/docs/nest/001', '/docs/nest/002']
         },
         {
           text: 'NuxtJs',
+          // collapsible: true,
           children: ['/docs/nuxt/001', '/docs/nuxt/002']
-        }
+        },
       ]
     },
     navbar: [
@@ -44,10 +51,9 @@ export default defineUserConfig({
       {
         text: "Docs",
         children: [
-          // { text: "vuepress-reco", link: "/docs/theme-reco/theme" },
+          { text: "Design Pattern", link: "/docs/design-pattern/001" },
           { text: "NestJs", link: "/docs/nest/001" },
           { text: "NuxtJs", link: "/docs/nuxt/001" },
-          // { text: "vuepress-theme-reco", link: "/blogs/other/guide" },
         ],
       },
     ],
