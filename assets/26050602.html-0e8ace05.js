@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-03f713e2","path":"/blogs/ts/26050602.html","title":"TS","lang":"en-US","frontmatter":{"title":"TS","date":"2026/05/06","tags":["ts"]},"headers":[{"level":3,"title":"面试题","slug":"面试题","link":"#面试题","children":[]}],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"blogs/ts/26050602.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3c56155a","path":"/docs/design-pattern/002.html","title":"观察者","lang":"en-US","frontmatter":{"title":"观察者","date":"2023/10/19"},"headers":[],"git":{"createdTime":1708919626000,"updatedTime":1708919626000,"contributors":[{"name":"ikegq","email":"1278822613@qq.com","commits":1}]},"filePathRelative":"docs/design-pattern/002.md"}');export{e as data};
